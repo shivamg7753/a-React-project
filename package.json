@@ -4,9 +4,8 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Build process completed!\""
-  },
+  "build": "mkdir build && copy main.js build/"
+},
   "author": "",
   "license": "ISC"
 }
