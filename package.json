@@ -4,8 +4,9 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-  "build": "mkdir build && copy main.js build/"
-},
+  "build": "mkdir build && copy calculator.js build/"
+}
+,
   "author": "",
   "license": "ISC"
 }
